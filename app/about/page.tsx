@@ -23,7 +23,7 @@ export default function AboutPage() {
           </div>
           <div className="container mx-auto px-4 relative">
             <div className="max-w-3xl mx-auto text-center">
-              <h1 className="text-4xl md:text-5xl font-bold mb-6">About AIOWTA TECHNOLOGIES</h1>
+              <h1 className="text-4xl md:text-5xl font-bold mb-6">About AIOWTA TECHNOLOGIES LLC</h1>
               <p className="text-lg text-muted-foreground">
                 Your trusted partner in IT solutions and network infrastructure
               </p>
