@@ -64,9 +64,9 @@ export default function ContactPage() {
                     </div>
                     <h3 className="font-semibold mb-2">Office</h3>
                     <p className="text-sm text-muted-foreground">
-                      3925 Irish Hills Dr
+                      1559 Broadhead St
                       <br />
-                      South Bend, IN 46614
+                      Pittsburgh, PA 15206
                     </p>
                     <div className="mt-4 pt-4 border-t border-border">
                       <div className="flex items-center justify-center gap-2 mb-2">
