@@ -84,7 +84,7 @@ export default function ContactPage() {
                 <CardContent className="p-0">
                   <div className="aspect-video w-full">
                     <iframe
-                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2997.8!2d-86.2!3d41.7!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8816d0e0e0e0e0e0%3A0x0!2s3925%20Irish%20Hills%20Dr%2C%20South%20Bend%2C%20IN%2046614!5e0!3m2!1sen!2sus!4v1234567890"
+                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3035.2919054535164!2d-79.89495592357042!3d40.46880675246745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8834eda39485998d%3A0x7468999321c80c53!2s1559%20Broadhead%20St%2C%20Pittsburgh%2C%20PA%2015206!5e0!3m2!1sen!2sus!4v1767583502125"
                       width="100%"
                       height="100%"
                       style={{ border: 0 }}
